@@ -1,0 +1,7 @@
+10, 100, 100
+
+ set variables for the three numbers
+user input of the variables
+create and algorithm
+average = sum of numbers/ divided by the amount of numbers
+have the program output the result
